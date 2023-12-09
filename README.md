@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#DevCard
+# DevCard
+</br>
 <a href="https://app.daily.dev/alexanderelliott"><img src="https://api.daily.dev/devcards/05b770a872694c5484ff1c56ea27338d.png?r=nil" width="400" alt="Alexander Elliott's Dev Card"/></a>
 
 <!--
