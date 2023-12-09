@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#DevCard
+<a href="https://app.daily.dev/alexanderelliott"><img src="https://api.daily.dev/devcards/05b770a872694c5484ff1c56ea27338d.png?r=nil" width="400" alt="Alexander Elliott's Dev Card"/></a>
+
 <!--
 **AlexEllio/AlexEllio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
