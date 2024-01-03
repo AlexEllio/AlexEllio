@@ -1,6 +1,9 @@
 ### Hi, I'm Alexander 👋🐱‍💻
 
-# DevCard
+I have a group in daily.dev where the members share interesting posts about IT and have discussions about the cool things happening in our non stop evolving world: <a href="https://dly.to/shxmriiygld">TalkToYourDuck
+
+This is my own profile DevCard:
+---
 </br>
 <a href="https://app.daily.dev/alexanderelliott"><img src="https://api.daily.dev/devcards/05b770a872694c5484ff1c56ea27338d.png?r=nil" width="400" alt="Alexander Elliott's Dev Card"/></a>
 
